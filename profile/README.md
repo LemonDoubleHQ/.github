@@ -1,6 +1,6 @@
 ## Hello! 👋
 <p align="center" width="100%">
-  <img width="500px" height="500px" src=https://github.com/LemonDoubleHQ/.github/assets/31124212/edd5e095-d7b3-4000-9d6a-42c5290bbe77 />
+  <img width="50%" height="auto" src=https://github.com/LemonDoubleHQ/.github/assets/31124212/edd5e095-d7b3-4000-9d6a-42c5290bbe77 />
 </p>
 
 - 위 이미지는 AI로 뽑아낸 로고입니다. 로고 하나쯤 가지고 싶었는데.. 세상이 참 좋아진 것 같아요.
