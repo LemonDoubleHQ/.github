@@ -1,7 +1,8 @@
 ## Hello! 👋
 <p align="center" width="100%">
-  <img width="50%" height="auto" src=https://github.com/LemonDoubleHQ/.github/assets/31124212/edd5e095-d7b3-4000-9d6a-42c5290bbe77 />
+  <img width="50%" height="auto" src="https://github.com/LemonDoubleHQ/.github/assets/31124212/6b74b336-8302-461d-b81f-d3a0d7a8324b" />
 </p>
+
 
 - 위 이미지는 AI로 뽑아낸 로고입니다. 로고 하나쯤 가지고 싶었는데.. 세상이 참 좋아진 것 같아요.
 - 딱히 뭔가 있진 않고.. Organization secrets 같은거 써 보고 싶어서 한번 파 봤습니다.
