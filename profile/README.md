@@ -1,6 +1,6 @@
 ## Hello! 👋
 <p align="center" width="100%">
-  <img width="50%" height="auto" src="https://github.com/LemonDoubleHQ/.github/assets/31124212/6b74b336-8302-461d-b81f-d3a0d7a8324b" />
+  <img width="20%" height="auto" src="https://github.com/LemonDoubleHQ/.github/assets/31124212/6b74b336-8302-461d-b81f-d3a0d7a8324b" />
 </p>
 
 
