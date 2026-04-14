@@ -2,7 +2,7 @@
 
 <p align="center" width="100%">
   <a href=https://lemondouble.com target=_blank>
-    <img width="100%" height="auto" src="https://github.com/user-attachments/assets/a79b9734-4017-4704-969d-96c2e8e2946f" />
+    <img width="100%" height="auto" src="https://github.com/user-attachments/assets/8b7f7500-18d6-46b2-a5b4-489c00d3a3c6" />
   </a>
 </p>
 
